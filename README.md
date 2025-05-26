@@ -38,8 +38,11 @@ cp docker-compose.yml.example docker-compose.yml
 ### 3. Configurar variables de entorno
 
 Ajustar los valores en el archivo `.env` según tus necesidades:
-- `APP_NAME`
+- `DB_HOST`
+- `DB_PORT`
 - `DB_DATABASE`
+- `DB_USERNAME`
+- `DB_PASSWORD`
 - Otras configuraciones relevantes
 
 ### 4. Levantar el proyecto
@@ -87,6 +90,7 @@ npm run dev
 ### 9. Acceder a la aplicación
 
 Dirigirse a: [http://localhost:8080/cursos](http://localhost:8080/cursos)
+Dirigirse a: [http://localhost:8080/estudiantes](http://localhost:8080/estudiantes)
 
 ## 🎯 Funcionalidades
 
