@@ -21,8 +21,8 @@ Sistema completo de manejo de cursos y estudiantes desarrollado con Laravel, que
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/Albu231311/Lab3_DB.git
-cd Lab3_DB
+git clone https://github.com/Albu231311/Lab3_BD.git
+cd Lab3_BD
 ```
 
 ### 2. Configurar archivos de entorno
